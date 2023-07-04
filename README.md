@@ -6,7 +6,7 @@ This repository is dedicated to practicing and sharing unsupervised learning tec
 
 - `palette.ipynb`: This notebook file demonstrates how to create a color palette using the K-means clustering algorithm and an input picture.
 
-- `unsupervised-metrics.ipynb`: In this notebook file, alternative methods for finding the optimal number of clusters in unsupervised learning are explored, going beyond the classical elbow method.
+- `unsupervised-metrics.ipynb`: In this notebook file, alternative methods for finding the optimal number of clusters in unsupervised learning are explored, going beyond the classic elbow method.
 
 ## Color Palette Generation with K-means
 
